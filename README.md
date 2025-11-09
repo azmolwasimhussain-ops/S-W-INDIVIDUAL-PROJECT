@@ -27,7 +27,6 @@ It includes my career details, education, and contact information.
 ---
 
 👨‍💻 Author Azmol Wasim Hussain
-
 💼 https://www.linkedin.com/in/azmol-wasim-hussain-404778376/
 
 ---
